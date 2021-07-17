@@ -1,4 +1,4 @@
-baseURL: "abrablog.netlify.app"
+baseURL: "https://abrablog.netlify.app"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
