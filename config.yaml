@@ -1,6 +1,6 @@
 baseURL: "https://abrablog.netlify.app"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Abra Blog"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
